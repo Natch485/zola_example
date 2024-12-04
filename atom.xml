@@ -299,6 +299,14 @@
         
         <content type="html" xml:base="https://Natch485.github.io/zola_example/mortellerandonnee/">&lt;p&gt;toto
 tata&lt;&#x2F;p&gt;
+&lt;p&gt;|&lt;em&gt;#Pocaonthas&lt;&#x2F;em&gt;	|&lt;em&gt;##Ariel&lt;&#x2F;em&gt; 	|###Aurore	|
+|:-------	|:------	|:----	|
+|John		|Eric		|Maléfique	|
+|Radcliff	|Polochon	|Philippe	|&lt;&#x2F;p&gt;
+&lt;!--j&#x27;aime bine Disney…--&gt;
+&lt;p&gt;![logo chou][https:&#x2F;&#x2F;www.websocial.ch&#x2F;img&#x2F;hesso_logo.png]^&lt;&#x2F;p&gt;
+&lt;hr&gt;&lt;ol class=&quot;footnotes-list&quot;&gt;
+&lt;&#x2F;ol&gt;
 </content>
         
     </entry>
