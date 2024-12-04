@@ -1,0 +1,5 @@
+
+Sitemap: https://Natch485.github.io/zola_example/sitemap.xml
+User-Agent: *
+Allow: /
+Host: https://Natch485.github.io/zola_example
