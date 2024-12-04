@@ -23,6 +23,6 @@ tata
 
 <!--j'aime bine Disney…-->
 
-![logo chou][https://www.websocial.ch/img/hesso_logo.png]^
+![logo chou])https://www.websocial.ch/img/hesso_logo.png)^
 
  [^1]: Gg
