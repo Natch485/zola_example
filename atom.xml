@@ -297,7 +297,8 @@
         <link rel="alternate" type="text/html" href="https://Natch485.github.io/zola_example/mortellerandonnee/"/>
         <id>https://Natch485.github.io/zola_example/mortellerandonnee/</id>
         
-        <content type="html" xml:base="https://Natch485.github.io/zola_example/mortellerandonnee/">&lt;p&gt;toto&lt;&#x2F;p&gt;
+        <content type="html" xml:base="https://Natch485.github.io/zola_example/mortellerandonnee/">&lt;p&gt;toto
+tata&lt;&#x2F;p&gt;
 </content>
         
     </entry>
